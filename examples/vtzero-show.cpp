@@ -176,7 +176,7 @@ static void print_layer_overview(const vtzero::layer& layer) {
 }
 
 int main(int argc, char* argv[]) {
-    std::cout <<"---test---"<<std::endl;
+    std::cout <<"---tes t---"<<std::endl;
     std::string filename;
     std::string layer_num_or_name;
     bool layer_overview = false;
